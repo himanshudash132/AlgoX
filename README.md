@@ -29,6 +29,11 @@ To run this project locally:
 ## Usage
 Simply open the index.html file in a browser, and you can start interacting with the algorithm visualizations. The interface allows you to select different algorithms and see how they work step by step.
 
+## Images
+Here are some images of the project interface:
+images/1.png
+images/2.png
+
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and create a pull request with your enhancements or bug fixes.
 
