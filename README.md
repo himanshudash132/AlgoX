@@ -31,8 +31,8 @@ Simply open the index.html file in a browser, and you can start interacting with
 
 ## Images
 Here are some images of the project interface:
-images/1.png
-images/2.png
+![Screenshot](https://github.com/himanshudash132/AlgoX/blob/main/images/1.png)
+![Screenshot](https://github.com/himanshudash132/AlgoX/blob/main/images/2.png)
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and create a pull request with your enhancements or bug fixes.
