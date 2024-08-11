@@ -22,3 +22,16 @@ To run this project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/himanshudash132/AlgoX.git
+
+   
+2. Open index.html in your preferred web browser.
+
+## Usage
+Simply open the index.html file in a browser, and you can start interacting with the algorithm visualizations. The interface allows you to select different algorithms and see how they work step by step.
+
+## Contributing
+Contributions are welcome! Feel free to fork the repository and create a pull request with your enhancements or bug fixes.
+
+## License
+This project is open-source. You can use, modify, and distribute it freely.
+   
