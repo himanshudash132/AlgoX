@@ -97,3 +97,11 @@ footer {
     left: 0;
 }
 
+.container h2 {
+    color: #61dafb;
+}
+
+.container p {
+    margin-bottom: 20px;
+    font-size: 1.2em;
+}
