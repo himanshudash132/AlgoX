@@ -2,8 +2,8 @@
 
 **AlgoX** is a web-based project that demonstrates various algorithmic concepts using interactive visualizations. This project is built using JavaScript, HTML, and CSS.
 
-# Check out the deployed link 
----> https://himanshudash132.github.io/AlgoX/
+## Check out the deployed link 
+[![Website](https://img.shields.io/badge/Portfolio-%2300C7B7.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://himanshudash132.github.io/AlgoX/) 
 
 ## Features
 
