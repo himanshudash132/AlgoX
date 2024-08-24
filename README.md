@@ -2,6 +2,9 @@
 
 **AlgoX** is a web-based project that demonstrates various algorithmic concepts using interactive visualizations. This project is built using JavaScript, HTML, and CSS.
 
+# Check out the deployed link 
+---> https://himanshudash132.github.io/AlgoX/
+
 ## Features
 
 - **Algorithm Visualization**: Visualize different algorithms to understand their working better.
